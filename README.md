@@ -33,4 +33,5 @@ Runic is a high-performance C-based engine designed for procedural fractal gener
    ./runic < examples/input.text
 
 Author
-Stefan Popovici - University of Bucharest, Faculty of Mathematics and Computer Science
+**Stefan Popovici** - *National University of Science and Technology Politehnica Bucharest (UNSTPB)*
+*Faculty of Automatic Control and Computers, Computer Science and Engineering (CTI)*
